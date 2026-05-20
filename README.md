@@ -34,6 +34,34 @@ Tested primarily on:
 
 ---
 
+## Screenshots
+
+### Main Window
+
+![Main Window](screenshots/main-window.png)
+
+### Help Window
+
+![Help Window](screenshots/help-window.png)
+
+### Keyboard Shortcuts
+
+![Keyboard Shortcuts](screenshots/shortcuts.png)
+
+### Select a Language
+
+![Language Window](screenshots/language.png)
+
+### Select a Voice
+
+![Voice Window](screenshots/voice.png)
+
+### UNINSTALL
+
+![Uninstall Selection](screenshots/uninstall.png)
+
+---
+
 ## Installation
 
 ### Option 1 — Graphical method
