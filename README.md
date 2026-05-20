@@ -40,13 +40,13 @@ Tested primarily on:
 
 ![Main Window](screenshots/main-window.png)
 
-### Help Window
-
-![Help Window](screenshots/help-window.png)
-
 ### Keyboard Shortcuts
 
 ![Keyboard Shortcuts](screenshots/shortcuts.png)
+
+### Help Window
+
+![Help Window](screenshots/help-window.png)
 
 ### Select a Language
 
